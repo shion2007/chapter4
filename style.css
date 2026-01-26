@@ -54,7 +54,7 @@ nav a{
     text-align:center;
     color:darkred;
     text-decoration:none;
-    background-image:url(images/gold_back.png);
+    background-image:url(images/gold.png);
 }
 nav a:hover{
     color:crimson;
