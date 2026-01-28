@@ -91,37 +91,6 @@ h3 {
     background-image:url(images/frame.png);
     float:left;
 }
-.margin_p{
-    margin-top: 45px;
-    margin-left: 20px;
-    color: brown;
-    float:left;
-}
-#picup_img {
-    clear: both;
-    margin-right: 20px;
-    float: left;
-}
-#picup_p{
-    width: 440px;
-    height: 280px;
-    padding: 10px;
-    margin-right: 20px;
-    border-radius: 10px;
-    background-color: burlywood;
-    float: left;
-}
-h4 {
-    width: 200px;
-    height: 60px;
-    margin-bottom: 10px;
-    font-size: 20px;
-    line-height: 60px;
-    color: darkred;
-    text-align: center;
-    border-radius: 10px;
-    background-image:url(images/goldpanel.png);
-}
 /* フッター　CSS　*/
 footer{
     clear: both;
